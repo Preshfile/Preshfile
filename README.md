@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **C#/.NET**
 
 - 💬 Ask me about **Web Development**
 

@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **precious.i.oranye@gmail.com**
+- 📫 How to reach me **precious.oranye@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

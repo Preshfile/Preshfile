@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Precious Oranye</h1>
-<h3 align="center">Passionate C#/.NET Developer</h3>
-<h4 align="center">Strong interest in C# programming, .NET framework, Blazor and web development</h4>
-<h4 align="center">Focused on delivering scalable and efficient applications / software solutions for businesses to thrive</h4>
+<h3 align="center">Passionate C#/.NET Developer</h3> 
+<p align="center"> Strong interest in C# programming, .NET framework, Blazor and web development. <br>
+    Focused on delivering scalable and efficient applications / software solutions for businesses to thrive
+</p>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 I’m currently learning **Blazor**
 
 - 💬 Ask me about **Web Development**
 

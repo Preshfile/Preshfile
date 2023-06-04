@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Precious Oranye</h1>
 <h3 align="center">Passionate C#/.NET Developer</h3> 
-<p align="center"> Strong interest in C# programming, .NET framework, Blazor and web development. <br>
+<p align="center"> I have Strong interest in C# programming, .NET framework, Blazor and web development. <br>
     Focused on delivering scalable and efficient applications / software solutions for businesses to thrive
 </p>
 <br>

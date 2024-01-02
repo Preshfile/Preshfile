@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently Building a Base Math App
+- 🌱 I’m currently building an Employee Management System
 
 - 💬 Ask me about **Web Development**
 

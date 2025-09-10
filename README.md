@@ -6,18 +6,18 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 **Past:** Experienced in **C#, ASP.NET, Blazor, EF Core, Angular, React, Node.js, MongoDB, MySQL, PostgreSQL, Express**.  
-- 🌱 **Present:** Currently building an **Employee Management System**, while sharpening skills in **Data Science (Python, Pandas, NumPy, Matplotlib, PowerBI, SQL)**.  
-- 🌍 **Future:** Focused on creating **world-class solutions** by combining **Blockchain, AI, and Data** to solve global problems in finance, healthcare, education, and beyond.  
+- 🔭 Experienced in **C#, ASP.NET, Blazor, EF Core, Angular, React, Node.js, MongoDB, MySQL, PostgreSQL, Express**.  
+- 🌱 Currently building an **Employee Management System**, while sharpening skills in **Data Science (Python, Pandas, NumPy, Matplotlib, PowerBI, SQL)**.  
+- 🌍 Focused on creating **world-class solutions** by combining **Blockchain, AI, and Data** to solve global problems in finance, healthcare, education, and beyond.  
 - 💬 Ask me about **Web Development, Data Engineering, or Software Architecture**.  
-- 📫 Reach me at **precious.oranye@outlook.com**  
+- 📫 Reach me at **preciousifenofor@gmail.com**  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://twitter.com/preshfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preshfile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/precious-oranye-99968910b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/precious-oranye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://medium.com/@precious.i.oranye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
